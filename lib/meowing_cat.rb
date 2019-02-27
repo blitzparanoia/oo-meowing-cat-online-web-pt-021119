@@ -2,3 +2,7 @@
 class Cat
   attr_accessor :meow
 end
+
+def meow
+  puts ""
+end
